@@ -3,8 +3,8 @@ package com.HG;
 public class Pokergame {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		PokerCard card = new PokerCard(28);
+		System.out.println(card.value);
 	}
 
 }
