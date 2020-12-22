@@ -12,5 +12,4 @@ public class Scoring {
 		}
 		stu1.print();
 	}
-		
 }
